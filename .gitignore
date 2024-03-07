@@ -10,14 +10,15 @@ __pycache__/
 
 # Ignore static files directory
 static/
-
+Lib/
+Scripts/
 # Ignore media files directory
 media/
 
 # Ignore IDE or editor-specific files
 .vscode/
 .idea/
-Scripts/
+
 .pyenv.cfg
-Lib/
+
 
