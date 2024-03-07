@@ -19,6 +19,18 @@ media/
 .vscode/
 .idea/
 
-.pyenv.cfg
+
+# Ignore directories created by virtual environments
+Lib/
+Scripts/
+pyenv/
+
+# Ignore other files and directories
+*.pyc  # Ignore Python bytecode files
+*.sqlite3  # Ignore SQLite database files
+*.pyo  # Ignore optimized Python files
+*.pyc  # Ignore compiled Python files
+__pycache__/  # Ignore Python cache directory
+*.egg-info/  # Ignore Python package metadata
 
 
