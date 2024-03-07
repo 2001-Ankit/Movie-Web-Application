@@ -17,7 +17,7 @@ media/
 # Ignore IDE or editor-specific files
 .vscode/
 .idea/
-.Scripts/
+Scripts/
 .pyenv.cfg
-.Lib/
+Lib/
 
