@@ -34,3 +34,5 @@ __pycache__/  # Ignore Python cache directory
 *.egg-info/  # Ignore Python package metadata
 
 
+/Lib/
+/Scripts/
